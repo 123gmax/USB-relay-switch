@@ -7,6 +7,8 @@ Source code in this repo is developed to control the USB relay which is similar 
 
 The source code of the application is in Python. The GUI is developed using PyQt. Serial commands are sent using PySerial.
 
+Note : This application is not compatible with USB relay which just has AVR chip on it which typically use v-usb firmware to communicate over USB. 
+
 **Start the application**
 
 Application can be started from terminal as follow. Make sure all modules(like PySerial, PyQt etc) are installed before staring.
