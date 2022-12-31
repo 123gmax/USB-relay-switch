@@ -17,7 +17,7 @@ Application can be started from terminal as follow. Make sure all modules(like P
 
 There are also "*precompiled binary*" for Windows and Linux (Ubuntu). See folder "*bin*"
 1. Ubuntu OS  : USBRealySwitch_ubuntu
-2. Windows OS : TBD
+2. Windows OS : USBRealySwitch_Windows.exe
 
 See help menu after launching the application to know about each setting. 
 
