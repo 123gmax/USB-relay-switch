@@ -6,6 +6,6 @@ The template file is converted to .py file using
 The generated file is imported by run_ubuntu.py
 
 Executable is generated using pyinstaller
-   pyinstaller run_ubuntu.py --onefile
+   pyinstaller run_ubuntu.py --onefile --noconsole
 
 
